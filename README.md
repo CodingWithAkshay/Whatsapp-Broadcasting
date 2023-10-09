@@ -1,6 +1,6 @@
 bash 
 Copy code
-$ git clone https://github.com/your-username/your-repo.git
+$ git clone https://github.com/CodingWithAkshay/Whatsapp-Broadcasting
 $ cd your-repo
 Usage
 Demonstrate how to use your Python project. Provide code examples and describe common use cases.
